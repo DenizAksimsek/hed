@@ -1,0 +1,27 @@
+{
+  "name": "hed",
+  "version": "0.0.0",
+  "description": "HTML editor utility.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenizAksimsek/hed.git"
+  },
+  "keywords": [
+    "html",
+    "cli"
+  ],
+  "author": "Deniz Akşimşek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DenizAksimsek/hed/issues"
+  },
+  "homepage": "https://github.com/DenizAksimsek/hed#readme",
+  "dependencies": {
+    "argparser": "^0.2.2",
+    "parse5": "^6.0.1"
+  }
+}
