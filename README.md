@@ -16,7 +16,7 @@
 
 </div>
 
-# Example usage
+## Example usage
 
 ```sh
 hed --selector .site-footer site/*.html
