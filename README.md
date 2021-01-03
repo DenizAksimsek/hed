@@ -5,10 +5,10 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/DenizAksimsek/hed)
 
 ```
-   __ _________                     
-  / // / __/ _ \    H    T    M    L
- / _  / _// // /    E  d  i  t  o  r
-/_//_/___/____/     ================
+   __ __  ____  ___                     
+  / // / / __/ / _ \    H    T    M    L
+ / _  / / _/  / // /    E  d  i  t  o  r
+/_//_/ /___/ /____/     ================
 
 ```
 
