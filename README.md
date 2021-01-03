@@ -1,10 +1,8 @@
 
+<div align=center>
+
 # hed
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/DenizAksimsek/hed)
-
-:alert: WIP :alert:
-
-<div align=center>
 
 ```
    __ _________                     
@@ -14,9 +12,11 @@
 
 ```
 
+**(WIP)**. Edit shared parts of static HTML files.
+
 </div>
 
-Edit shared parts of static HTML files.
+# Example usage
 
 ```sh
 hed --selector .site-footer site/*.html
