@@ -12,7 +12,7 @@
 
 ```
 
-**(WIP)**. Edit shared parts of static HTML files.
+<mark>(WIP)</mark>. Edit shared parts of static HTML files.
 
 </div>
 
